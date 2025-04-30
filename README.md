@@ -35,12 +35,6 @@ Clone the Repository
 Clone the project from GitHub and navigate into the directory:
 
 bash
-
-Collapse
-
-Wrap
-
-Copy
 git clone https://github.com/sarayicactux/nestjs-kafka.git
 cd nestjs-kafka
 Start the Infrastructure
